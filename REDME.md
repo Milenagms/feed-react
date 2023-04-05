@@ -5,5 +5,5 @@
 </div>
 
 <div align="center"></br> 
-<img  src="assets/gif.gif" alt="Exemplo da aplicação">
+<img  src="src/assets/gif.gif" alt="Exemplo da aplicação">
 </div>
